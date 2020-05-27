@@ -1,4 +1,6 @@
-{
-    "PhaseEncodingDirection": "j",
-    "TotalReadoutTime": 0.0000832
-}
+{"IntendedFor":["ses-00/func/sub-01_ses-00_task-ArchiSocial_dir-ap_bold.nii.gz",
+"ses-00/func/sub-01_ses-00_task-ArchiSocial_dir-pa_bold.nii.gz",
+"ses-00/func/sub-01_ses-00_task-ArchiSpatial_dir-ap_bold.nii.gz",
+"ses-00/func/sub-01_ses-00_task-ArchiSpatial_dir-pa_bold.nii.gz",
+"ses-00/func/sub-01_ses-00_task-ArchiStandard_dir-ap_bold.nii.gz",
+"ses-00/func/sub-01_ses-00_task-ArchiStandard_dir-pa_bold.nii.gz"]}
